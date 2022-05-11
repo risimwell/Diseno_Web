@@ -1,0 +1,93 @@
+/*header{
+    width: 42%;
+    height:30px;
+    font-size:90%
+    
+    
+    
+  }
+  h1,h2,span,li,h3{
+   
+    font-size:70%
+  }
+
+
+.cabecera{  
+  height:1000px;
+  width: 1200px;
+  background-size: cover;
+  padding: 0 50px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #FFF;
+  background: url("/images/cabecera.jpg") 0 -200px;
+
+}
+
+.subscrip{
+  height:55px;
+  width: 1210px;
+  
+
+}
+
+.tarjetas{
+  padding: 0 50px;
+  height: 450 px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  
+}
+footer{
+  height:40px;  
+  width:610px;
+  
+  
+}
+*/
+main{
+  width: 1200px;
+  height: 1680px;
+}
+
+header{
+  width: 300px;
+  height: 100px;
+  display: flex;
+  padding: 0 150px;
+  align-items: center;
+  
+  
+}
+
+
+.cabecera{
+height:12px;
+
+}
+
+.subscrip{
+height:80px;
+
+}
+
+.tarjetas{
+  
+  height: 6000px;
+  width: 600;
+}
+
+
+footer{
+  height:100px;
+  width: 1200px;
+}
+.card{
+  height:300px;
+  width: 600px;
+}

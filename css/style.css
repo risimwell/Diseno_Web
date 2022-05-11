@@ -245,9 +245,24 @@ textarea{
   height: 40px;
   width: 750PX ;
   
-  
 }
 .mapa{
   width: 320px ;
   height: 330px;
 }
+/*@media (max-width:400px)
+
+    {
+    .logo,nav, h1,h2, main{
+    width: 100%;
+    background-color: red;
+    
+  }
+}
+
+
+
+
+
+
+  
